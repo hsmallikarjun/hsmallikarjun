@@ -1,5 +1,5 @@
-# 💫 About Me:
-A passionate developer 
+# Hi 👋, I'm H S MALLIKARJUN
+A passionate developer from India 🇮🇳
 
 
 ## 🌐 Socials:
