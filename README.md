@@ -1,4 +1,4 @@
-#                                             Hi 👋, I'm H S MALLIKARJUN
+  # Hi 👋, I'm H S MALLIKARJUN
 A passionate developer from India 🇮🇳
 
 
