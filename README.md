@@ -1,6 +1,8 @@
   # Hi 👋, I'm H S MALLIKARJUN
 A passionate developer from India 🇮🇳
 
+[![](https://visitcount.itsvg.in/api?id=hsmallikarjun&icon=0&color=12)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ www.linkedin.com/in/hsmallikarjun) 
@@ -13,6 +15,5 @@ A passionate developer from India 🇮🇳
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hsmallikarjun&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hsmallikarjun&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
