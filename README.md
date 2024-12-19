@@ -3,6 +3,8 @@ A passionate developer from India 🇮🇳
 
 [![](https://visitcount.itsvg.in/api?id=hsmallikarjun&icon=0&color=12)](https://visitcount.itsvg.in)
 
+📑 Check out my resume here - My Resume(https://drive.google.com/file/d/1sKwqNM30BkPLjKR4lnhioHPJqsAedQaH/view?usp=sharing)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ www.linkedin.com/in/hsmallikarjun) 
