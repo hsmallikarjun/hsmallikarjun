@@ -3,7 +3,7 @@ A passionate developer from India 🇮🇳
 
 [![](https://visitcount.itsvg.in/api?id=hsmallikarjun&icon=0&color=12)](https://visitcount.itsvg.in)
 
-📑 Check out my resume here - [My Resume]--(https://drive.google.com/file/d/1sKwqNM30BkPLjKR4lnhioHPJqsAedQaH/view?usp=sharing)
+📑 Check out my resume here - [My Resume]--(https://drive.google.com/file/d/1sNVF877t_zvluMilJRZ-dbLwtq2gqMH8/view?usp=drive_link)
 
 📫 Reach out to me at hsmallikarjun02@gmail.com
 
